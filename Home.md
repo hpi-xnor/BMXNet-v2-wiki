@@ -1,1 +1,6 @@
-Welcome to the BMXNet-v2 wiki!
+# BMXNet Wiki
+
+Links:
+- [Building instructions](building)
+- [Training & Hyperparameters](hyperparameters)
+- [Binary Experiment Results](Binary-Network-Results)
