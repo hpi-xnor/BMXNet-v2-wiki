@@ -21,7 +21,7 @@ python image_classification.py \
     --prefix model \
     --wd 0.0
 ```
-![acc](uploads/4b08603bb51aecb27f2bb885b364d03b/acc.png)
+![acc](binary_cifar.png)
 
 This should train a binary model with ~47% Accuracy on ImageNet:
 ```
@@ -42,6 +42,6 @@ python image_classification.py \
     --prefix model \
     --wd 0.0
 ```
-![acc](uploads/90a5bb2679b5d3ce33e96e3de14d27db/acc.png)
+![acc](binary_imagenet.png)
 
-Please check our extensive [experiments](experiments) page for better results and other network architectures.
+Please check our extensive [experiments](experiments.md) page for better results and other network architectures.
