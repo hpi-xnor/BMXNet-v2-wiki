@@ -4,7 +4,7 @@ Here is a guide which helps us:
 ```bash
 # clone the repository 
 # important: recursively - with all submodules
-git clone --recursive git@gitlab.hpi.de:joseph.bethge/bmxnet.git 
+git clone --recursive https://github.com/hpi-xnor/BMXNet-v2.git
 
 # install build tools and git
 sudo apt-get update && sudo apt-get install build-essential git

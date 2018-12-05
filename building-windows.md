@@ -1,8 +1,8 @@
 # BMXNet Installation on Windows
 
-This document describes the build and compilation process of [BMXNet](https://gitlab.hpi.de/joseph.bethge/bmxnet). As well as adding the BMXNet Python binding. It is based on those three sources:
+This document describes the build and compilation process of [BMXNet](https://github.com/hpi-xnor/BMXNet-v2). As well as adding the BMXNet Python binding. It is based on those three sources:
 
-1. BMXNet's Readme: [Build the MXNet Python Binding](https://gitlab.hpi.de/joseph.bethge/bmxnet#build-the-mxnet-python-binding)
+1. BMXNet's Readme: [Build the MXNet Python Binding](https://github.com/hpi-xnor/BMXNet-v2#build-the-mxnet-python-binding)
 2. MXNet's Windows Setup: [Build from Source](http://mxnet.incubator.apache.org/install/windows_setup.html#build-from-source)
 3. MXNet's Build/Install Instructions: [Verify MXNet with Python](https://github.com/apache/incubator-mxnet/blob/master/MKLDNN_README.md#verify-mxnet-with-python)
 
@@ -44,7 +44,7 @@ This document describes the build and compilation process of [BMXNet](https://gi
 ## Clone the repository
 ```bash
 cd C:\
-git clone git@gitlab.hpi.de:joseph.bethge/bmxnet.git --recursive
+git clone https://github.com/hpi-xnor/BMXNet-v2.git --recursive
 ```
 
 ## Build BMXNet
