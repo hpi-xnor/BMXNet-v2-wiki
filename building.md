@@ -5,7 +5,8 @@ However, please also consult the information in the README of the main project i
 
 ## ArchLinux
 ```bash
-git clone --recursive git@gitlab.hpi.de:joseph.bethge/bmxnet.git
+git clone --recursive https://github.com/hpi-xnor/BMXNet-v2.git
+cd BMXNet-v2
 mkdir build
 cd build
 cmake -G Ninja \
