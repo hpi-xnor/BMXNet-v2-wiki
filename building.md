@@ -21,7 +21,7 @@ ninja -j 8
 
 ## Ubuntu
 
-See [Building on Ubuntu](building-ubuntu).
+See [Building on Ubuntu](building-ubuntu.md).
 
 ## MacOS without OpenMP
 - Step 1: Install xCode from [AppStore](https://itunes.apple.com/de/app/xcode/id497799835?mt=12)
@@ -57,4 +57,4 @@ cmake ../ \
 ```
 
 ## Windows
-See [Building on Windows](building-windows).
+See [Building on Windows](building-windows.md).
