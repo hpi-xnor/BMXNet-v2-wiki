@@ -44,4 +44,4 @@ python image_classification.py \
 ```
 ![acc](binary_imagenet.png)
 
-Please check our extensive [experiments](experiments.md) page for better results and other network architectures.
+Please check our extensive [experiments](Binary-Network-Results.md) page for better results and other network architectures.
