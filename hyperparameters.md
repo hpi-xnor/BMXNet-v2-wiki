@@ -1,3 +1,6 @@
+
+Please also check our extensive [experiments](Binary-Network-Results.md) page for better results and other network architectures.
+
 Some arguments explained:
 - `--data-path` should point to a directory where cifar10 is downloaded to (the first time), and later loaded from. If you get a corrupt ZIP-File Error you might have cancelled a previous download, simply delete the ZIP and restart. (only needed for CIFAR)
 - `--data-dir` should point to a directory with ImageNet record files, i.e. `imagenet-val.rec` and `imagenet-train.rec` (only needed for ImageNet); use the [official guide](https://mxnet.incubator.apache.org/tutorials/vision/large_scale_classification.html) or the guide from [Gluon-CV](https://gluon-cv.mxnet.io/build/examples_datasets/recordio.html#imagerecord-file-for-imagenet) to create these files
@@ -44,4 +47,3 @@ python image_classification.py \
 ```
 ![acc](binary_imagenet.png)
 
-Please check our extensive [experiments](Binary-Network-Results.md) page for better results and other network architectures.
